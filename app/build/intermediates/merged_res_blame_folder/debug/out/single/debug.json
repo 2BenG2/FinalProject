@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_live_tv_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_live_tv_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable-v24_concrete_color.jpg.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable-v24\\concrete_color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_format_list_bulleted_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_my_lists.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_my_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable-v24_dd.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable-v24\\dd.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_popup_window.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_browse_movies.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_browse_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-pngs-44:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_movie_cube.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\movie_cube.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_activity_new_list.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_new_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_content_new_list.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\content_new_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_list_cube.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\list_cube.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable-v24_yellow_concrate.jpg.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable-v24\\yellow_concrate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_activity_info_page.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_info_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_black_concrete.jpg.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\black_concrete.jpg"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_login_box.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\login_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_browse_series.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_series.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_browse_lists.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_cube.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\cube.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_browse_movies.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_browse_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_no_image_available.jpg.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\no_image_available.jpg"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_info_page.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_info_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_fragment_browse_movies.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-merged_res-49:\\layout_pop_up_window.xml.flat",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\pop_up_window.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\pop_up_window.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\pop_up_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_info_page.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_info_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\movie_cube.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\movie_cube.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_browse_movies.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\popup_window.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_browse_series.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_series.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-48:/layout/fragment_first.xml",
+        "source": "com.lectures.finalproject.app-main-51:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_my_lists.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_my_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\list_cube.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\list_cube.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\content_new_list.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\content_new_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\activity_info_page.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_info_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\activity_new_list.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\activity_new_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-mergeDebugResources-48:\\layout\\fragment_browse_lists.xml",
+        "source": "C:\\Users\\2beng\\.gradle\\daemon\\7.3.3\\com.lectures.finalproject.app-main-51:\\layout\\fragment_browse_lists.xml"
+    }
+]
